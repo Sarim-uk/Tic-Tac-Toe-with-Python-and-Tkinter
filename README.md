@@ -9,18 +9,22 @@ Dependencies
 Python 3.x
 tkinter library
 
-Usage
+Usage:
+
 Clone the repository:
 git clone https://github.com/Sarim-uk/tic-tac-toe.git
 
 Navigate to the project directory:
+
 cd tic-tac-toe
 
 Run the script:
+
 python tic_tac_toe.py
 
-Contributors
+Contributors:
 Sarim.uk
 
-License
+License:
+
 This project is licensed under the MIT License - see the LICENSE file for details.
