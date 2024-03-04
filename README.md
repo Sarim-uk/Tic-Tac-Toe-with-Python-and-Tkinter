@@ -11,7 +11,7 @@ tkinter library
 
 Usage
 Clone the repository:
-git clone https://github.com/your-username/tic-tac-toe.git
+git clone https://github.com/Sarim-uk/tic-tac-toe.git
 
 Navigate to the project directory:
 cd tic-tac-toe
